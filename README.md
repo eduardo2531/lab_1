@@ -15,4 +15,4 @@ Los datos CSV estan separado en dos archivos uno con los datos de rew,done,actio
 El archivo con el controlador de sonic es el sonic1.py
 
 GitHub
-
+https://github.com/eduardo2531/lab_1
